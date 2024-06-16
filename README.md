@@ -1,2 +1,3 @@
 # langchain_tutorial
-A Tutorial for LangChain
+
+A Tutorial for LangChain and OpenAI
