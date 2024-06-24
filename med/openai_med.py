@@ -5,7 +5,7 @@ from openai.types.beta.threads.message_create_params import Attachment, Attachme
 
 # file that we are working with
 # this file is a chart note
-TEST_FILE = 'data/patient_1.pdf'
+TEST_FILE = 'data/patient_13.pdf'
 
 # create client
 client = OpenAI()
